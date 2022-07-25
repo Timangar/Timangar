@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Timangar (Cnick)
+- 👋 Hi, I’m @Timangar (C. Nick)
 - 👀 I’m interested in AI and coding in general
-- 🙃 I'm in my final year of school and refining my coding
-skills in my sparetime
+- 🙃 I just finished school and am now technically speaking unemployed... anyway, I'm trying to refine my coding skills and maybe make a buck or two in the process
